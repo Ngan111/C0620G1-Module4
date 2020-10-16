@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92e0f6dd-276a-4566-baeb-92a51b6b3be3" name="Default Changelist" comment="" />
+    <list default="true" id="92e0f6dd-276a-4566-baeb-92a51b6b3be3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_SpringController/Exercises/sandwich-condiments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_SpringController/Exercises/sandwich-condiments/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -29,6 +35,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1iolIEdGHCWsjNY7ibhltFfidgY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/spring-gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -133,11 +140,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -159,6 +161,9 @@
       <workItem from="1602645189893" duration="170000" />
       <workItem from="1602645978280" duration="1846000" />
       <workItem from="1602663109451" duration="6272000" />
+      <workItem from="1602733105269" duration="482000" />
+      <workItem from="1602733806740" duration="1105000" />
+      <workItem from="1602743917486" duration="1107000" />
     </task>
     <servers />
   </component>
@@ -226,9 +231,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602582863896" />
-    <state x="66" y="0" key="new project wizard" timestamp="1602667822683">
+    <state x="66" y="0" key="new project wizard" timestamp="1602744455748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="66" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1602667822683" />
+    <state x="66" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1602744455748" />
   </component>
 </project>
