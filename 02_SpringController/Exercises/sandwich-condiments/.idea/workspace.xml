@@ -7,7 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c74639b7-cead-4081-b55a-0777c1ce74ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/build/libs/employee-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_DataBinding/practices/employee/build/libs/employee-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +177,7 @@
       <workItem from="1602717116556" duration="203000" />
       <workItem from="1602718559493" duration="130000" />
       <workItem from="1602724348808" duration="4054000" />
+      <workItem from="1603616179910" duration="167000" />
     </task>
     <servers />
   </component>
